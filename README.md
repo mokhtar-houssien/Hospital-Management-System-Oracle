@@ -8,7 +8,7 @@
 يتكون النظام من **5 جداول رئيسية** مرتبطة ببعضها:
 
 <p align="center">
-  <img src="ERD_Diagram.drawio.png" alt="Hospital-Management-System-Oracle ERD" width="85%">
+  <img src="ERD_Diagram.drawio.png" alt="Hospital-Management-System-Oracle" width="85%">
 </p>
 2. **جدول الأطباء (DOCTORS):** لتخزين بيانات الأطباء وتخصصاتهم والقسم الذي يعملون فيه.
 3. **جدول المرضى (PATIENTS):** لتخزين بيانات المرضى (الاسم، العمر، الجنس، العنوان).
