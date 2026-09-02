@@ -2,15 +2,6 @@
 
 هذا المشروع عبارة عن قاعدة بيانات متكاملة لنظام مستشفى تم بناؤها باستخدام لغة **SQL** وعن طريق برنامج **Oracle Database**.
 
----
-
-## 📸 المخطط الهيكلي (ERD Diagram)
-
-<p align="center">
-  <img src="ERD_Diagram.drawio.png" alt="Hospital-Management-System ERD" width="85%">
-</p>
-
----
 
 ## 🎯 فكرة المشروع والجداول:
 يتكون النظام من **5 جداول رئيسية** مرتبطة ببعضها:
